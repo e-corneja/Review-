@@ -1,0 +1,58 @@
+body {
+  background-color: rgba(211, 211, 211, 0.808);
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+article {
+  margin-bottom: 10px;
+  padding: 20px;
+  border-radius: 10px;
+  color: #333;
+}
+.first {
+  background-color: lightpink;
+}
+.second {
+  background-color: lightgreen;
+}
+.second-a {
+  background-color: linen;
+}
+.third {
+  background-color: lightsalmon;
+}
+.fourth {
+  background-color: lightskyblue;
+}
+.fifth {
+  background-color: lightcoral;
+}
+.sixth {
+  background-color: lightgoldenrodyellow;
+}
+.seventh {
+  background-color: rgba(37, 201, 192, 0.719);
+}
+.eighth {
+  background-color: lightcyan;
+}
+pre {
+  margin: 0;
+  padding: 0;
+}
+code {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  display: flex;
+  gap: 15px;
+}
+h3 {
+  margin: 0;
+  padding: 0;
+}
